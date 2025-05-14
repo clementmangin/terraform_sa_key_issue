@@ -1,0 +1,1 @@
+This repository illustrates the issue described here: https://github.com/hashicorp/terraform-provider-google/issues/22664
